@@ -2,6 +2,8 @@
 
 **Gemini AI Telegram Publisher** is an automated workflow built using **Make.com** that generates and posts short Arabic messages about **Artificial Intelligence** directly to a **Telegram** channel — all without any manual work.
 
+![Workflow Diagram](Screenshot 2025-10-15 053326.png)
+
 ---
 
 ## 🚀 Project Overview
